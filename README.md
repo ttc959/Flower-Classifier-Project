@@ -13,4 +13,15 @@ We will be using a dataset that includes images of flowers classified into many 
 •	List/describe the data sources you may obtain/use for your project.
 We will use datasets of images collected by software engineers and related experts in the field of plant image recognition. The data sources are not limited to but may include:
 
+
+# ML_Flower_Classifier
+
+
+## 1. Project Description
+
+## 2. Use Case Description
+
+## 3. Useful features from your data & the descriptions of the features
+
+## 4. Data sources that include the names of your data files and links to retrieve data available on the Internet.
 Data source from Kaggle: https://www.kaggle.com/alxmamaev/flowers-recognition
