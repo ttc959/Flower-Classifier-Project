@@ -1,6 +1,6 @@
 # Project: Machine Learning
  
-## 1. Project Proposal:
+## 0. Project Proposal:
 
 TEAM: Taja Castilleja, Vaishnavi Krishnan, Christian Martin, Chi Bao, and Shainan Agrawal
 
